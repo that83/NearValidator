@@ -1,0 +1,15 @@
+D:\NearValidator\bin\Debug\net6.0\NearValidator.exe
+D:\NearValidator\bin\Debug\net6.0\NearValidator.deps.json
+D:\NearValidator\bin\Debug\net6.0\NearValidator.runtimeconfig.json
+D:\NearValidator\bin\Debug\net6.0\NearValidator.dll
+D:\NearValidator\bin\Debug\net6.0\NearValidator.pdb
+D:\NearValidator\obj\Debug\net6.0\NearValidator.csproj.AssemblyReference.cache
+D:\NearValidator\obj\Debug\net6.0\NearValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\NearValidator\obj\Debug\net6.0\NearValidator.AssemblyInfoInputs.cache
+D:\NearValidator\obj\Debug\net6.0\NearValidator.AssemblyInfo.cs
+D:\NearValidator\obj\Debug\net6.0\NearValidator.csproj.CoreCompileInputs.cache
+D:\NearValidator\obj\Debug\net6.0\NearValidator.dll
+D:\NearValidator\obj\Debug\net6.0\refint\NearValidator.dll
+D:\NearValidator\obj\Debug\net6.0\NearValidator.pdb
+D:\NearValidator\obj\Debug\net6.0\NearValidator.genruntimeconfig.cache
+D:\NearValidator\obj\Debug\net6.0\ref\NearValidator.dll
